@@ -1,0 +1,14 @@
+﻿body {
+    background:lightblue;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: solid #AA4465;
+    padding: 10px;
+    top:auto;
+    text-align: left;
+
+
+}
